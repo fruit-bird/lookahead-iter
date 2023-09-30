@@ -1,0 +1,5 @@
+# LookAhead Iterator
+
+```rust
+todo!()
+```
